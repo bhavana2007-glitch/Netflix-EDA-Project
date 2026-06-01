@@ -2,7 +2,7 @@
 # Exploratory Data Analysis & Insights Report
 
 ## Dataset
-[Dataset Name]
+Netflix Movies & TV Shows Dataset
 
 ## Tools Used
 - Python
